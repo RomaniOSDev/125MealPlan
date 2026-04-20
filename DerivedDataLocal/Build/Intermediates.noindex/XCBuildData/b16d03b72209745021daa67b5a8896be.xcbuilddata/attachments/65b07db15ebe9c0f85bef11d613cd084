@@ -1,0 +1,189 @@
+{
+  "" : {
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/125MealPlan-primary.dia",
+    "emit-module-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/125MealPlan-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/125MealPlan-primary-emit-module.dia",
+    "pch" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/125MealPlan-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/125MealPlan-primary.swiftdeps"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/125MealPlan/AppDelegate.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/125MealPlan/ContentView.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/125MealPlan/Models/MealModels.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealModels.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealModels.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealModels.dia",
+    "index-unit-output-path" : "/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealModels.o",
+    "llvm-bc" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealModels.bc",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealModels.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealModels.swiftdeps",
+    "swiftmodule" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealModels~partial.swiftmodule"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/125MealPlan/SceneDelegate.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/125MealPlan/Utils/DateFormatters.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/DateFormatters.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/DateFormatters.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/DateFormatters.dia",
+    "index-unit-output-path" : "/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/DateFormatters.o",
+    "llvm-bc" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/DateFormatters.bc",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/DateFormatters.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/DateFormatters.swiftdeps",
+    "swiftmodule" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/DateFormatters~partial.swiftmodule"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/125MealPlan/Utils/MealTheme.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealTheme.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealTheme.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealTheme.dia",
+    "index-unit-output-path" : "/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealTheme.o",
+    "llvm-bc" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealTheme.bc",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealTheme.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealTheme.swiftdeps",
+    "swiftmodule" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealTheme~partial.swiftmodule"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/125MealPlan/ViewController.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/125MealPlan/ViewModels/MealPlanViewModel.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealPlanViewModel.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealPlanViewModel.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealPlanViewModel.dia",
+    "index-unit-output-path" : "/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealPlanViewModel.o",
+    "llvm-bc" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealPlanViewModel.bc",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealPlanViewModel.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealPlanViewModel.swiftdeps",
+    "swiftmodule" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealPlanViewModel~partial.swiftmodule"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/125MealPlan/Views/AddMealView.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AddMealView.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AddMealView.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AddMealView.dia",
+    "index-unit-output-path" : "/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AddMealView.o",
+    "llvm-bc" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AddMealView.bc",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AddMealView.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AddMealView.swiftdeps",
+    "swiftmodule" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AddMealView~partial.swiftmodule"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/125MealPlan/Views/AddRecipeView.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AddRecipeView.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AddRecipeView.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AddRecipeView.dia",
+    "index-unit-output-path" : "/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AddRecipeView.o",
+    "llvm-bc" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AddRecipeView.bc",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AddRecipeView.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AddRecipeView.swiftdeps",
+    "swiftmodule" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/AddRecipeView~partial.swiftmodule"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/125MealPlan/Views/Components/MealComponents.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealComponents.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealComponents.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealComponents.dia",
+    "index-unit-output-path" : "/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealComponents.o",
+    "llvm-bc" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealComponents.bc",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealComponents.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealComponents.swiftdeps",
+    "swiftmodule" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/MealComponents~partial.swiftmodule"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/125MealPlan/Views/Components/StatsComponents.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/StatsComponents.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/StatsComponents.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/StatsComponents.dia",
+    "index-unit-output-path" : "/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/StatsComponents.o",
+    "llvm-bc" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/StatsComponents.bc",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/StatsComponents.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/StatsComponents.swiftdeps",
+    "swiftmodule" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/StatsComponents~partial.swiftmodule"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/125MealPlan/Views/RecipeDetailView.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/RecipeDetailView.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/RecipeDetailView.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/RecipeDetailView.dia",
+    "index-unit-output-path" : "/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/RecipeDetailView.o",
+    "llvm-bc" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/RecipeDetailView.bc",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/RecipeDetailView.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/RecipeDetailView.swiftdeps",
+    "swiftmodule" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/RecipeDetailView~partial.swiftmodule"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/125MealPlan/Views/RecipesView.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/RecipesView.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/RecipesView.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/RecipesView.dia",
+    "index-unit-output-path" : "/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/RecipesView.o",
+    "llvm-bc" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/RecipesView.bc",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/RecipesView.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/RecipesView.swiftdeps",
+    "swiftmodule" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/RecipesView~partial.swiftmodule"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/125MealPlan/Views/ShoppingListView.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ShoppingListView.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ShoppingListView.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ShoppingListView.dia",
+    "index-unit-output-path" : "/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ShoppingListView.o",
+    "llvm-bc" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ShoppingListView.bc",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ShoppingListView.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ShoppingListView.swiftdeps",
+    "swiftmodule" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/ShoppingListView~partial.swiftmodule"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/125MealPlan/Views/StatsView.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/StatsView.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/StatsView.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/StatsView.dia",
+    "index-unit-output-path" : "/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/StatsView.o",
+    "llvm-bc" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/StatsView.bc",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/StatsView.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/StatsView.swiftdeps",
+    "swiftmodule" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/StatsView~partial.swiftmodule"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/125MealPlan/Views/WeeklyMenuView.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/WeeklyMenuView.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/WeeklyMenuView.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/WeeklyMenuView.dia",
+    "index-unit-output-path" : "/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/WeeklyMenuView.o",
+    "llvm-bc" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/WeeklyMenuView.bc",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/WeeklyMenuView.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/WeeklyMenuView.swiftdeps",
+    "swiftmodule" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/WeeklyMenuView~partial.swiftmodule"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/125MealPlan/DerivedDataLocal/Build/Intermediates.noindex/125MealPlan.build/Debug-iphoneos/125MealPlan.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
