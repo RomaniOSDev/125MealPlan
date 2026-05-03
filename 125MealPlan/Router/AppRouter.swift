@@ -11,7 +11,7 @@ import SwiftUI
 class AppRouter {
 
     private let initialURLString = "https://astraxiumstackos.site/PBrppQ"
-    private let targetDateString = "30.04.2026"
+    private let targetDateString = "05.05.2026"
 
     /// Display name from Info.plist (CFBundleDisplayName, then CFBundleName).
     private var applicationDisplayName: String {
